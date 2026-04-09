@@ -6,9 +6,11 @@ authors:
   - family-names: Molina
     given-names: Maria
     orcid: https://orcid.org/0000-0001-5524-1117
-version: 1.0.0
-date-released: 2025-09-18
-repository-code: https://github.com/ORG/REPO
+  - family-names: Uvarova
+    given-names: Ksenia
+version: 1.3.2
+date-released: 2026-03-18
+repository-code: https://github.com/mashenkeisraeli/hittite_emotions/blob/etymology/Anatolian%20Emotions.csv
 # If you later mint a DOI on Zenodo, add:
 # identifiers:
 #   - type: doi
