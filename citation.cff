@@ -12,6 +12,6 @@ version: 2.1.0
 date-released: 2026-03-18
 repository-code: https://github.com/mashenkeisraeli/hittite_emotions/tree/etymology
 # If you later mint a DOI on Zenodo, add:
-# identifiers:
-#   - type: doi
-#     value: 10.5281/zenodo.XXXXXXX
+identifiers:
+   - type: doi
+     value: 10.5281/zenodo.19477826
