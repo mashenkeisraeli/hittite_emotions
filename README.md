@@ -3,7 +3,7 @@ The “Akkadian and Hittite Emotions in Context (AHEC) – Towards a Lexicon of 
 
 Types of Hittite emotional terms can be divided into 18 macrodomains, corresponding in semantics with their Akkadian counterparts.<br>
 For instruction on annotation of semantics of emotions see Guidelines.<br>
-For full inventory of emotional lexemes in Hittite see Hittite Emotions.<br>
+For full inventory of emotional lexemes in Hittite see [Hittite Emotions](https://github.com/mashenkeisraeli/hittite_emotions/blob/main/Hittite_emotions.csv).<br>
 
 In the Hittite part the project includes two directions:
 
