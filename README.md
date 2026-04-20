@@ -5,6 +5,7 @@ Project members: Prof. Doris Prechel, Prof. Ulrike Steinert, Prof. Amir Gilan, M
 
 Hittite emotional terms can be divided into 18 macrodomains, corresponding in semantics with their Akkadian counterparts.<br>
 For instruction on annotation of semantics of emotions see [Guidelines](https://github.com/mashenkeisraeli/hittite_emotions/blob/main/Guidelines.pdf).<br>
+For the diagram of emotional sphere in Hittite see [Emotions](https://github.com/mashenkeisraeli/hittite_emotions/blob/main/Emotions.png)<br>
 For full inventory of emotional lexemes in Hittite see [Hittite Emotions](https://github.com/mashenkeisraeli/hittite_emotions/blob/main/Hittite_emotions.csv).<br>
 
 In the Hittite part of the project two directions of research are maintained:
