@@ -9,5 +9,5 @@ For full inventory of emotional lexemes in Hittite see [Hittite Emotions](https:
 
 In the Hittite part of the project two directions of research are maintained:
 
-The Database of Hittite Emotional Contexts (DHEC) - structured and lemmatized compound of paragraphs from Hittite texts containing emotional vocabulary<br>
-[The Anatolian Emotions (AE)](https://github.com/mashenkeisraeli/hittite_emotions/blob/etymology/Anatolian%20Emotions.csv) – etymology of the emotional lexicon in Anatolian languages (dataset)
+[The Database of Hittite Emotional Contexts (DHEC)](https://mashenkeisraeli.github.io/corpus/) - structured and lemmatized compound of paragraphs from Hittite texts containing emotional vocabulary<br>
+[The Anatolian Emotions (AE)](https://github.com/mashenkeisraeli/hittite_emotions/tree/etymology) – etymology of the emotional lexicon in Anatolian languages (dataset)
