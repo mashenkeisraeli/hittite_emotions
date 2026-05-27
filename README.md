@@ -1,6 +1,6 @@
 # hittite_emotions
 The “Akkadian and Hittite Emotions in Context (AHEC) – Towards a Lexicon of Emotions in Cuneiform Texts from Ancient Mesopotamia and Hittite Anatolia” is a collaboration between Johannes Gutenberg-Universität Mainz and University of Tel Aviv, funded by DFG. <br>
-Project members: Prof. Doris Prechel, Prof. Ulrike Steinert, Prof. Amir Gilan, Maria Molina, Letizia Savino<br>
+Project members: Prof. Doris Prechel, Dr. Ulrike Steinert, Prof. Amir Gilan, Dr. Maria Molina, Letizia Savino<br>
 [Hittite Emotions for AHEC](https://hittite-emotions.net/)
 
 Hittite emotional terms can be divided into 18 macrodomains, corresponding in semantics with their Akkadian counterparts.<br>
